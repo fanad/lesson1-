@@ -23,3 +23,4 @@ elif number == 11:
      print("Ноябрь")
 elif number == 12:
      print("Декабрь")
+     print("сЕНТЯБРЬ")
