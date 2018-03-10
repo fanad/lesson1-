@@ -1,16 +1,24 @@
 number = int(input("Введите число 1-12"))
 if number == 1:
-    print("Январь")
-elif number == 2;
-    print("феварль")
-elif number == 3;
-    print("Март")
-elif number == 4;
-    print("Апрель")
-elif number == 5;
-    print("Май")
-elif number == 6;
-    print("Июнь")
-elif number == 7;
-    print("Июль")
-    
+     print("Январь")
+     print("Февраль")
+elif number == 3:
+     print("Март")
+elif number == 4:
+     print("Апрель")
+elif number == 5:
+     print("Май")
+elif number == 6:
+     print("Июнь")
+elif number == 7:
+     print("Июль")
+elif number == 8:
+     print("Август")
+elif number == 9:
+     print("Сентябрь")
+elif number == 10:
+     print("Октябрь")
+elif number == 11:
+     print("Ноябрь")
+elif number == 12:
+     print("Декабрь")
